@@ -26,3 +26,12 @@ footer {
     padding: 20px 50px;
 }
 
+.flex{
+    display: inline-flex;
+    justify-content: center;
+}
+
+img{
+    width: 30%;
+    padding: 5px;
+}
